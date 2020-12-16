@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **DJANGO, ML, DS-ALGO**
 
-- 👨‍💻 Checkout my portfolio [hr1shu.pythonanywhere.com](https://hr1shu.pythonanywhere.com)
+- 👨‍💻 Checkout my portfolio [here](https://hr1shu.pythonanywhere.com)
 
 - 📫 How to reach me **merishujaiswal@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rishav-kumar-b4a179191/](https://www.linkedin.com/in/rishav-kumar-b4a179191/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rishav-kumar-b4a179191/)
 
 - ⚡ Fun fact **I count from 0 :P**
 
