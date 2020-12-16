@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DJANGO, ML, DS-ALGO**
 
-- 👨‍💻 All of my projects are available at [hr1shu.pythonanywhere.com](hr1shu.pythonanywhere.com)
+- 👨‍💻 Checkout my portfolio [hr1shu.pythonanywhere.com](hr1shu.pythonanywhere.com)
 
 - 📫 How to reach me **merishujaiswal@gmail.com**
 
