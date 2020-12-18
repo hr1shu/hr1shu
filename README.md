@@ -1,6 +1,8 @@
-<h1 align="center">Hey Coders, I'm RISHAV</h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hey Coders😁, I'm RISHAV</h1>
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <!-- Namaste 🙏 -->
- <!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
+<!--<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 <h3 align="center">A Pythoneer🐍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr1shu&label=Profile%20views&color=0e75b6&style=flat" alt="hr1shu" /> </p>
