@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/rishav-kumar-b4a179191/)
 
-- ⚡ Fun fact **I count from 0 :P**
+- ⚡ Fun fact : **I count from 0 :P**
 
 
 <h4 align="center">
