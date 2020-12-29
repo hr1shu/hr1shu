@@ -20,10 +20,10 @@
 - ⚡ Fun fact **I count from 0 :P**
 
 
-<h3 align="center">
-     <a href="https://github.com/adityabisoi/ds-algo-solutions/stargazers"><img src="https://img.shields.io/github/stars/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
+<h4 align="center">
+     <a href="https://github.com/hr1shu"><img src="https://img.shields.io/github/stars/hr1shu.svg?style=plasticr"/></a>
     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/last-commit/adityabisoi/ds-algo-solutions.svg?style=plasticr"/></a>
-     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions"/></a></h3>
+     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
