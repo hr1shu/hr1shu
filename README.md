@@ -22,9 +22,7 @@
 
 <h4 align="center">
      <a href="https://github.com/hr1shu"><img src="https://img.shields.io/github/stars/hr1shu.svg?style=plasticr"/></a>
-    <a href="https://github.com/hr1shu/hr1shu"><img src="https://img.shields.io/github/last-commit/hr1shu/hr1shu.svg?style=plasticr"/></a>
-     <a href="https://github.com/adityabisoi/ds-algo-solutions/commits/master"><img src="https://img.shields.io/github/commit-activity/y/adityabisoi/ds-algo-solutions"/></a>
-
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hr1shu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hr1shu" height="30" width="40" /></a>
