@@ -39,3 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hr1shu&show_icons=true&locale=en&layout=compact" alt="hr1shu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hr1shu&show_icons=true&locale=en" alt="hr1shu" /></p>
+
+
+<img src="https://github.com/geekquad/geekquad/blob/master/algo.gif">
