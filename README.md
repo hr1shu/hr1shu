@@ -1,5 +1,6 @@
 <h1 align="center">Hey Coders🤖,'m I'm RISHAV👽</h1>
 <h3 align="center">Backend Developer && Pythoneer🐍</h3>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hr1shu&label=Profile%20views&color=0e75b6&style=flat" alt="hr1shu" /> </p>
 
@@ -7,11 +8,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 Check out my portfolio [[here]hr1shu.pythonanywhere.com]([here]hr1shu.pythonanywhere.com)
+- 👨‍💻 Check out my portfolio [here](hr1shu.pythonanywhere.com)
 
 - 📫 How to reach me **merishujaiswal@gmail.com**
 
-- 📄 Know about my experiences [[LinkedIN]https://www.linkedin.com/in/rishav-kumar-b4a179191/]([LinkedIN]https://www.linkedin.com/in/rishav-kumar-b4a179191/)
+- 📄 Know about my experiences [LinkedIN](https://www.linkedin.com/in/rishav-kumar-b4a179191)
 
 - ⚡ Fun fact **I count from 0 :P**
 
