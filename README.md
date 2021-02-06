@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 Check out my portfolio [here](hr1shu.pythonanywhere.com)
+- 👨‍💻 Check out my portfolio [here](https://hr1shu.pythonanywhere.com)
 
 - 📫 How to reach me **merishujaiswal@gmail.com**
 
